@@ -8,7 +8,7 @@
   <!-- 
   The `()` means "take an action." 
   -->
-  <body onclick="hello()">
+  <body onclick="Willamette()">
     Text.
   </body>
 </html>
