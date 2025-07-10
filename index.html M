@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" 
+            src="script.js">
+     </script>
+  </head>
+  <!-- 
+  The `()` means "take an action." 
+  -->
+  <body onclick="hello()">
+    Text.
+  </body>
+</html>
